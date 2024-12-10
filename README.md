@@ -27,3 +27,5 @@ This project is a modular sentiment analysis system developed to process textual
 Use the following command to clone the repository and navigate to the project directory:  
 ```bash
 
+git clone <repository-link>  
+cd <repository-name>  
